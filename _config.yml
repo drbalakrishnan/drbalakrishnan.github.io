@@ -1,0 +1,41 @@
+# Site settings
+title: Dr. S Balakrishnan
+description: 'Assistant Professor, Sri Krishna College of Engineering, Coimbator'
+url: 'http://sanlifaez.github.io/'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+
+author:
+  name: 'Dr. S Balakrishnan'
+  email: balkiparu@gmail.com
+  twitter_username: 
+  github_username:  
+  linkedin_username:  
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 8
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
