@@ -2,83 +2,92 @@
 layout: page
 title: Publications
 ---
+----------------------------------
+### Book Publications 
+* Introduction to Free and Open Source Software, 
+__Publisher__: Science Scripts, __ISBN:__ 978-620096862 --->  _3_ 
 
-### Peer-reviewed
+* Introduction to Free and Open Source Software, 
+__Publisher:__ Our Knowledge  Editions (19th May 2020), __Language:__ Portuguese, __ISBN-10:__ 6200968675, __ISBN-13:__ 978-6200968678
 
-* Electric-Double-Layer-Modulation Microscopy, 
-Kevin Namink, Xuanhui Meng, Marc T. M. Koper, Philipp Kukura, Sanli Faez,
-_Phys. Rev. Applied_ __13__ 044065 \(2020\) [Abstract](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.13.044065) [preprint](https://arxiv.org/abs/1909.12801)
+* Introduction to Free and Open Source Software, 
+__Publisher:__ Wydawnictwo Nasza  Wiedza (May 19, 2020), __Language:__ Polish, __ISBN-10:__ 6200968691, __ISBN-13:__ 978-6200968692 
 
-* Interfacing superconducting qubits and single optical photons using molecules in waveguides,
-Sumanta Das, Vincent E. Elfving, Sanli Faez, Anders S. Sørensen, _Phys. Rev. Lett._ __118__ 140501 \(2017\) [Abstract](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.140501) [preprint](https://arxiv.org/abs/1607.06271)
+* Introduction to Free and Open Source Software, 
+__Publisher:__ Uitgeverij Onze  Kennis (May 19, 2020), __Language:__ Dutch, __ISBN-10:__ 6200968683, __ISBN-13:__ 978- 6200968685. 
 
-* Polaritonic normal-mode splitting and light localization in a one-dimensional nanoguide,
-Harald R. Haakh, Sanli Faez, Vahid Sandoghdar,  _Phys. Rev. A_ __94__ 053840 \(2016\) [Abstract](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.053840) [preprint](http://arxiv.org/abs/1510.07979)
+* Introduction to Free and Open Source Software, 
+__Publisher:__ Ediciones Nuestro  Conocimiento (May 19, 2020), __Language:__ Spanish, __ISBN-10:__ 6200968640, __ISBN-13:__ 978-6200968647 
 
-* Intersystem crossing rates of single perylene molecules in ortho-dichlorobenzene,
-Nico R. Verhart,  Pedro Navarro,  Sanli Faez,  Michel Orrit, _Phys. Chem. Chem. Phys._ __18__ 17655-17659 \(2016\) [Abstract](http://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp02678h#!divAbstract)
+* Introduction to Free and Open Source Software, 
+__Publisher:__ Verlag Unser Wissen  (May 18, 2020), __Language:__ German, __ISBN-10:__ 6200968624, __ISBN-13:__ 978- 6200968623
 
-* Nanocapillary Electrokinetic Tracking for Monitoring Charge Fluctuations on a Single Nanoparticle,
-Sanli Faez, Sela Samin, Dashdeleg Baasanjav, Stefan Weidlich, Markus Schmidt, and Allard Mosk, _Faraday Discussions_ __193__ 447-458 \(2016\) [Abstract](http://pubs.rsc.org/en/Content/ArticleLanding/2016/FD/C6FD00097E#!divAbstract)
+* Introduction to Free and Open Source Software, 
+__Publisher:__ Lambert Academic Publishing,  Germany. __ISBN:__ 978-3-659-57950-9
 
-* Fast, label-free tracking of single viruses and weakly scattering nanoparticles in a nanofluidic optical fiber, 
-Sanli Faez, Yoav Lahini, Stefan Weidlich, Rees F. Garmann, Katrin Wondraczek, Matthias Zeisberger, Markus A. Schmidt, Michel Orrit, and Vinothan N. Manoharan, _ACS Nano_ __9 (12)__ 12349–12357 \(2015\) [Open-access](http://pubs.acs.org/doi/abs/10.1021/acsnano.5b05646)
+* Artificial Intelligence and Expert Systems
+__Publisher:__ Lambert Academic Publishing,  Germany. __ISBN__. 9783330319882
 
-* Design and synthesis of aromatic molecules for probing electric-fields at the nanoscale,
-Sanli Faez, Nico R. Verhart, Marios Markoulides, Francesco Buda, André Gourdon, and Michel Orrit, _Faraday Discussions_ __184__ 251-262 \(2015\) [Abstract](http://pubs.rsc.org/en/content/articlelanding/2015/fd/c5fd00065c#!divAbstract) [preprint](http://arxiv.org/abs/1511.08597)
+* Design and Analysis of Algorithm,
+__Publisher:__ Lambert Academic Publishing, Germany.  __ISBN:__ 978-3-659-95283-8 
 
-* Optical tracing of multiple charges in single-electron devices,
-Sanli Faez, Sense Jan van der Molen, Michel Orrit, _Phys. Rev. B_ __90__ 205405 \(2014\) [Abstract](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.205405) [preprint](http://arxiv.org/abs/1408.6977)
+* Advanced Computer Architecture, 
+__Publisher:__ RIP Publications, New Delhi. __ISBN:__ 978- 93-86138-03-3
 
-* Coherent Interaction of Light and Single Molecules in a Dielectric Nanoguide,
-Sanli Faez, Pierre Türschmann, Harald R. Haakh, Stephan Götzinger, Vahid Sandoghdar, _Phys. Rev. Lett._ __113__ 213601 \(2014\) [Abstract](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.213601) [preprint](http://arxiv.org/abs/1407.2846)
+* Fundamentals of Computing & Programmingm,
+__Publisher:__ Sai Publisher
 
-* Topologically Robust Transport of Photons in a Synthetic Gauge Field,
-Sunil Mittal, Jingyun Fan, Sanli Faez, Alan Migdall, Jake Taylor, Mohammad Hafezi, _Phys. Rev. Lett._ __113__ 087403 \(2014\) [Abstract](http://link.aps.org/doi/10.1103/PhysRevLett.113.087403) [preprint](http://arxiv.org/abs/1404.0090)  \(__Viewpoint__: Light Avoids Anderson Localization, Alexander Khanikaev and Azriel Genack, _Physics_ __7__ 87 [link](http://physics.aps.org/articles/v7/87) \)
+* Theory of Computation,
+__Publisher:__ ACME Learning Private Limited, New Delhi. __ISBN__ : 978-93-80408-78-1
 
-* Gain-tunable optomechanical cooling in a laser cavity,
-Li Ge, Sanli Faez, Florian Marquardt, and Hakan E. Tureci, _Phys. Rev. A_ __87__  053839 \(2013\) [Abstract](http://link.aps.org/doi/10.1103/PhysRevA.87.053839) [preprint](http://arxiv.org/abs/1301.3762)
+* Computer Practice Laboratory-I. __ISBN__ : 978-81-91012-87-3
 
-* Snapshots of Anderson localization beyond the ensemble average,
-R. G. S. El-Dardiry, Sanli Faez, and Ad Lagendijk, _Phys. Rev. B_ __86__ 125132 \(2012\) [Abstract](http://link.aps.org/doi/10.1103/PhysRevB.86.125132) [PDF](/docs/2012_transverse_PRB.pdf)
+* Computer Practice Laboratory-II. 
+__Publisher:__ Thirumalai Wings Publications
 
-* Classification of light sources and their interaction with active and passive environments,
-R. G. S. El-Dardiry, Sanli Faez, and Ad Lagendijk, _Phys. Rev. A_ __83__  031801\(R\) \(2011\) [Abstract](http://link.aps.org/doi/10.1103/PhysRevA.83.031801) [PDF](/docs/2011_sources_PRA.pdf)
+* Database Management Systems,
+__Publisher:__ Sai Publisher. __ISBN__: 978-81-91012-88-0
+* Data Structures,
+__Publisher:__ Sai Publisher. __ISBN__ : 978-93-82010-02-9
 
-* Critical scaling of polarization waves on a heterogeneous chain of resonators,
-Sanli Faez, Ad Lagendijk, and Alexander Ossipov, _Phys. Rev. B_ __83__ 075121 \(2011\)[Abstract](http://link.aps.org/doi/10.1103/PhysRevB.83.075121) [PDF](/docs/2011_dipolechain_PRB.pdf)
+* System Software,
+__Publisher:__ Sai Publisher. __ISBN__: 978-93-82010-00-5
 
-* Observation of multifractality in Anderson localization of ultrasound, 
-Sanli Faez, A. Strybulevych, J. H. Page, Ad Lagendijk, and B. A. van Tiggelen, _Phys. Rev. Lett._ __103__ 155703 \(2009\) [Abstract](http://link.aps.org/doi/10.1103/PhysRevLett.103.155703) [PDF](/docs/2009_multifractal_PRL.pdf)
+* Principles of Compiler Design, 
+__Publisher:__ Sai Book Distributors & Publishers, Chennai. __ISBN__: 978-81-91012-84-2
 
-* Varying the effective refractive index to measure optical transport in random media,
-Sanli Faez, P. M. Johnson, and Ad Lagendijk, _Phys. Rev. Lett._ __103__ 053903 \(2009\) [Abstract](http://link.aps.org/doi/10.1103/PhysRevLett.103.053903) [PDF](/docs/2009_rit_PRL.pdf)
+* Computer Programming, __ISBN__ : 978-93-82010-11-1
 
-* Experimental observation of second-harmonic generation and diffusion inside random media,
-Sanli Faez, P. M. Johnson, D. A. Mazurenko, and Ad Lagendijk, _J. Opt. Soc. Am. B_ __26__ 235-243 \(2009\) [Abstract](http://www.opticsinfobase.org/josab/abstract.cfm?URI=josab-26-2-235) [PDF](/docs/2009_shgdiffusion_JOSAB.pdf)
+* Programming and Data Structures-II. __ISBN__: 978-93-82010-22-7
 
-* Full characterization of anisotropic diffuse light,
-P. M. Johnson, Sanli Faez, and Ad Lagendijk, _Optics Express_ __16__ 7435-7446 \(2008\) [Abstract](http://www.opticsinfobase.org/oe/abstract.cfm?URI=oe-16-10-7435) [PDF](/docs/2008_aniso_OE.pdf)
 
-* Organic spintronics,
-W. J. M. Naber, Sanli Faez, and W. G. van der Wiel, _J. Phys. D: Appl. Phys._ __40__ R205-R228 \(2007\) [Abstract](http://iopscience.iop.org/0022-3727/40/12/R01/) [PDF](/docs/2007_organicspintronics_JPD.pdf)
+### Book Chapters
 
-_My researcherID on the Web of Science is [A-7622-2010](http://www.researcherid.com/rid/A-7622-2010)_
+* A Study on Privacy-Preserving Models using Blockchain Technology for  IOT for inclusion in the book “ Blockchain BigData  And Machine Learning Trends and Applications" to be __published__ by CRC Press,  Taylor and Francis Group”.
 
-### Mainly for outreach
+* Contributed the Book Chapter in the International Book, “Deep Learning  Algorithm Design for Discovery and Dysfunction of Landmines”, volume titled “Deep Learning for Remote Sensing and GIS: Frontier  Advancements and Applications”. Taylor and Francis - CRC PRESS. _(Under  Publishing)_.
 
-* Highlights from Faraday Discussion 184: Single-Molecule Microscopy and Spectroscopy, London, UK, September 2015''', E. Gellings, S. Faez and L. Piatkowski, _Chem. Commun._ __52__ 2213-2219 \(2016\) [Abstract][http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc90036d#!divAbstract) 
+* Basha, Syed Muzamil, Ravi Kumar Poluru, J. Janet, S. Balakrishnan, D. Dharunya  Santhosh and A. Kousalya. "A Case Study on Data Vulnerabilities in Software  Development Lifecycle Model." Impact of Digital Transformation on Security  Policies and Standards. IGI Global, 2020. 13-32. Web. 31 Mar. 2020.  _doi:_10.4018/978-1-7998-2367-4.ch002.[To read](https://www.igi-global.com/chapter/acase-study-on-data-vulnerabilities-in-software-development-lifecyclemodel/251946)
 
-* [Opinion column](http://www.zyyne.com/zh5/135423#p=33) in EuroPhysics News, September 2014
+* Contributed the Book Chapter in the International Book, “Integration of Cloud  and a Peer-To- Peer Central-Registry Based Internet of Things (IOT)  Protocol”, Engineering & Technology: Latest Progress (ET), __ISBN__ : 978-81- 932850-2-2, pp. 41-60, August 2017. 
 
-* Andersonlokalizatie: gefragmenteerd onderzoek aan een universeel verschijnsnel
-Nederlands Tijdschrift voor Natuurkunde, maart 2010, p. 70. \(in Dutch\) [PDF](/docs/2010_AL_ntvn.pdf)
+* Contributed the Book Chapter in the International Book, “MASFE - Mutliagent  System for Filtering E-Mails Using JADE”, Advanced Engineering Research  and Applications (AERA), Research India Publications, __ISBN__: 978-93-84443-42- 9, pp. 148-167, 2017. (Scopus Indexed) 
 
-### Preprints
-* PyNTA: An Open Source Software Application for Live Particle Tracking,
-Aquiles Carattino, Allard Mosk, Sanli Faez, _Preprints_ 2019, 2019060251, (doi: 10.20944/preprints201906.0251.v1 [preprint](https://www.preprints.org/manuscript/201906.0251/v1), 
+* Contributed the Book Chapter in the International Book, “Integration of Agent  Based Computing with Cloud Computing: Towards Cloud Intelligent  Systems”, International Research Publication House, Delhi. Engineering and  __Technology:__ Recent Innovations & Research, __ISBN__: 978-93-86138-06-4
 
-* How to replace the oil droplet in Millikan's experiment with a single virus, Sanli Faez, [preprint](http://arxiv.org/abs/1601.01226)
+### Electronics for you magazine
 
-* High-cooperativity nanofiber laser,
-Sanli Faez, Pierre Türschmann, Vahid Sandoghdar [preprint](http://arxiv.org/abs/1403.1885) 
+* Seeing Beyond the Darkness - Smart Vision Wallet, Electronics For You (EFY) Magazine, Vol. 52, No. 5, pp. 36-37, May 2019.[To read](https://electronicsforu.com/technology-trends/tech-focus/smart-vision-wallet seeing-beyond-darkness)
+
+### Open source for you magazine 
+* Horizontal IoT Platforms: An Overview, Vol.  8, Issue 12, pp. 30-32, September 2020. __ISSN:__ 2456-4885. [To read](https://www.opensourceforu.com/2020/10/horizontal-iot-platforms-an-overview/) 
+
+* A Brief Introduction to HydraChain, A Popular Distributed Ledger System, Vol. 8, Issue 10, pp. 66-69, July 2020. __ISSN:__  2456-4885. [To read](https://www.opensourceforu.com/2020/08/a-brief-introduction-to hydrachain-a-popular-distributed-ledger-system/)  
+
+* The Five Best DevOps Tools, Vol. 8, Issue 9,  pp. 40-42, June 2020. __ISSN:__ 2456-4885. [To read](https://opensourceforu.com/2020/06/the five-best-devops-tools/)
+
+* An Overview of H20: An Open Source AI Platform, Vol. 7, Issue 09, pp. 74-77, June 2019. __ISSN:__ 2456-4885.[To read](https://opensourceforu.com/2019/07n-overview-of-h2o-an-open-source-aiplatform/)
+
+* A Quick Look at Open Source Tools and Services for IoT, Vol. 7, Issue 05, pp. 37-39, February 2019. __ISSN:__ 2456-4885. [To read](https://opensourceforu.com/2019/03/a-quick-look-at-open-source-tools-and-services-for-iot/)
+
+* Building Your Own Storage Area Network and Network Attached Storage, Vol. 7, Issue 04, pp. 58-61, January 2019. __ISSN:__  2456-4885. [To read](https://opensourceforu.com/2019/02/building-your-own-storage-area-network-and-network-attached-storage/) 
