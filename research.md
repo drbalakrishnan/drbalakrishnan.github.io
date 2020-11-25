@@ -2,22 +2,45 @@
 layout: page
 title: Research Topics
 ---
+---------------------------------------------------------------------------------------------------------------
+### Research Funding Applied/Sanctioned
 
-A detailed overview of my current research activities is presented in the [nanoEPics](https://nanoepics.github.io) website and a shorter description on the [Nanophotonics section](https://www.uu.nl/en/research/nanophotonics) website at Utrecht University.
 
-### Highlights of older projects
+|S. No|Tite & details                                                                |Agency       |Status| PI/Co-PI | Cost|
+|-----|------------------------------------------------------------------------------|------|-----|:-------:|-----:| 
+|1 | Smart Application Driven Surveillance System For Women Safety, 17th March, 2020.|Tamilnadu State Science And Technology -Under Science And Technology Project Scheme|Applied Council For|PI|1,35,000/-|
+|2 | Smart Wallet for Visually Challenged and Elderly, 30th Sep, 2019 | SEED –TIDE | Applied | Co-PI | 46,80,000/-|
+|3|Automatic Toilet Aid system for Bedridden patients, 30th Sep, 2019 | SEED –TIDE | Applied |Co-PI | 44,50,000/- | 
+|4|A Study of the Socio – Economic status of Women Daily Wagers, 30th March, 2019 | CHORD (NSTMIS) | Applied |Co-PI | 30,49,000/- | 
+|5| Design and Development of a Smart Pen for Dyslexics, Jan, 2019 | SEED –TIDE | Applied |Co-PI |65,15,200/- | 
+|6|Design And Development Of An Unified Expert System For Horticultural Plant Health Management, Nov 16th, 2018 | SPARSH – BIRAC | | Applied |Co-PI | - |
+|7|Design a Hand Gesture Based Fan Control for Aiding a Visually Challenged Person | Tamilnadu State Council For Science And Technology | Applied | Mentor|10,000/-|
+|8|Design Of Personal Assistant System For Dyspraxia Affected Patients & 19th July, 2018 | Cognitive Science Research Initiative (CSRI) | Applied | PI | 45,32,000/-|
+|9|IoT based Wheel Chair for Disabled and Elderly People & 30th August, 2017 | Technology Interventions For Disabled Elderly (TIDE) | Applied | PI | 46,80,000/- | 
+|10|Design of Automated Hybrid Classification System for Diagnosis and Training of Autism Disorder & 30th June, 2017| Cognitive Science Research Initiative (CSRI) |Sanctioned| Co-PI | 36,02,000/- | 
 
-__Resonant coupling of light to single molecules in nanoguides__
 
-A few decades ago, studying single quantum emitters such as atoms, ions, or molecules was a dream, but today such investigations have become commonplace in many laboratories. Building on the fantastic ingredients of the single-emitter physics toolbox, many scientists now wish to realize mesoscopic ensembles made of carefully-arranged individual quantum entities that are interconnected by quantum messengers such as visible photons. Such a network is sometimes called a quantum web. However, the direct photonic coupling of two emitters placed at distances larger than a wavelength is usually negligible. To enhance this interaction, one might use high-finesse cavities and although the first steps have been taken, it remains a very challenging experiment with severe limitations on its prospects for scalability to many atoms. An alternative approach for efficient light-matter interaction has been shown to involve tight focusing of propagating photons, but this strategy is also difficult to scale to a large number of emitters.
 
-At the Max-Planck Institute for the Science of Light in Erlangen, we built an efficient solid-state platform for coherent interaction between photons and single molecules. Our system consists of organic dye molecules embedded inside an organic crystal that fills a glass nanocapillary to form an optical waveguide with a sub-wavelength mode diameter. With a careful choice of materials and fabrication process, each dye molecule acts like a quantum two-level system with a very high degree of coherence. We have measured the transmission of photons through this nanoguide and have seen that each time the frequency of the laser beam matches the narrow optical transitions of the individual molecules, there is an extinction signal of a few percent. Because the interaction between each molecule and light takes place via elastic scattering, the quantum coherence is preserved. 
+### Consultancy Projects
 
-__Observation of multifractality at the Anderson transition of ultrasound__
+|S. No | Title & Details | Company Name |Project Duration | Total Cost |
+|------|-----------------|---------------|:----------------:|------------:|
+|1|React App for buying FASTAG online | DOBBY 360, Bangalore | 1 Month | 25,000/- | 
+|2|AI powered Vision System | Neurocon Inc, USA | 6 Months | 4,00,000/- | 
 
-Waves usually diffuse through random materials. This fact allows light to travel through thick clouds and electrons to conduct through metals. But disorder can sometimes bring wave propagation to a complete halt. This remarkable phase transition from conductor to insulator, suggested by Philip Anderson in 1958, is known as Anderson localization. Ad and I, together with John Page and Anatoliy Strybulevych from Manitoba, Canada, and Bart van Tiggelen from Grenoble have uncovered the essential structure of waves close to the transition point. We studied ultrasound propagation in a disordered network of aluminum beads. Just below the Anderson transition threshold wildly fluctuating forked wave-patterns, so-called multifractals, arise. The observation of multifractality in waves finally brings theories of the structure of the localization transition developed over the last 25 years, face to face with reality. The Anderson localization transition, once such an out-of-reach complex theory that Philip Anderson called his seminal paper "the unrecognizable monster" in his 1977 Nobel prize lecture, has evolved into a sub-branch of condensed matter theory with applications found in electronic conductivity of solids, transport of light and sound in multiple-scattering media, the quantum hall transition, high-T_c superconductivity, and the conductivity of Graphene. In fact, the concept of multifractality extends beyond localization. Multifractals are found in many complex systems such as turbulence, earthquakes, and patterns of rainfall.
+### International Patents Published/ Grant
 
-__Development of the Refractive Index Tuning method__
+|S. No | Application Number | Title/Remarks |Status | Date of Publication |
+|------|-----------------|-----------------|:-------:|-------------------:| 
+|1|2020102608|Next generation Framework for Smart Building Monitoring using 6LoWPAN | Grant | 11/11/2020|
 
-Measuring how fast light energy travels is not so easy, but inside opaque materials, like clouds, bone, skin, or paint the problem is particularly hairy. We have teased out this rate of transport using a simple, yet novel, trick: changing the ambient pressure. As the pressure is slowly tuned so is the so-called effective refractive index, which determines the speed of light. Even though the light is following an extremely complex path as it bounces through the material, its speed can be characterized by tracking the influence of pressure on the outgoing light intensity pattern. So simple and direct is the technique that it offers an entirely new way for probing inside important biological materials such as bone or wood as well as complex photonic materials such as photonic crystals or metamaterials.
- 
+
+### Copyrights submitted/registered
+
+|S. No | Diary Number | Title/Remarks |Class of Work | Status | Date of Registration | Registration Number | 
+|------|-------------|----------------|--------------|:---------:|---------------------|---------------------|
+|1|20119/2019-CO/L | Study of Agent Based Intelligent Systems|Literary/Dramatic|Granted|14/12/2019|L-90657/2020|
+|2|8073/2020-CO/L |Foundation of IT Essentials |Literary/Dramatic |Registered | 18/06/2020 | - | 
+
+
+

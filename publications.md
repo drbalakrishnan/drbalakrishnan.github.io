@@ -91,3 +91,93 @@ __Publisher:__ Sai Book Distributors & Publishers, Chennai. __ISBN__: 978-81-910
 * A Quick Look at Open Source Tools and Services for IoT, Vol. 7, Issue 05, pp. 37-39, February 2019. __ISSN:__ 2456-4885. [To read](https://opensourceforu.com/2019/03/a-quick-look-at-open-source-tools-and-services-for-iot/)
 
 * Building Your Own Storage Area Network and Network Attached Storage, Vol. 7, Issue 04, pp. 58-61, January 2019. __ISSN:__  2456-4885. [To read](https://opensourceforu.com/2019/02/building-your-own-storage-area-network-and-network-attached-storage/) 
+
+### CSI Cmmunications magazine 
+* Deep Learning: An Overview and its Practical Examples, Volume No. 44, Issue No. 8, November 2020, pp. 17-19. 
+
+* Artificial Intelligence and Robotics: A Research Overview, Volume No. 44, Issue No. 7, October 2020, pp. 24- 26. 
+
+* The Prognostics of Digital Twin Technology for Industry 4.0, Volume No. 44, Issue No. 6, September 2020, pp. 33- 35. 
+
+* An Exploratory Study on Free and Open Source Artificial Intelligence  Toolkits, Volume No. 44, Issue No. 5, August  2020, pp. 20-22. 
+
+* Panoramic Insights on Virtual Reality Technology, Volume No. 44, Issue No. 4, July 2020, pp. 17-19. 
+
+* Artificial Intelligence in a Quantum World of Computation,Volume No. 44, Issue No. 3, June 2020, pp. 28-30. 
+
+* Taxonomy and Architecture of Internet of Things: An overview of Disruptive Technology, Volume No. 44, Issue No. 1, April  2020, pp. 8-10. 
+
+* The Role of Data Science in Big Data Analytics – Overview, Volume No. 43, Issue No. 12, March 2020, pp. 16-18. 
+
+* Green Computing: Future of Computers, Volume No. 43, Issue No. 12, March 2020, pp. 63-65. 
+
+* An Effective Way of Teaching and Learning in Higher Education Using  Computer Assisted Education, Volume No. 43,  Issue No. 10, January 2020, pp. 13-15. 
+
+### ICT connect magazine
+* “Evolution of Job Markets & Future Trends”, Vol.  9, Issue 3, July-Sep’ 2018, pp. 6-7. 
+
+
+### White papers in data science foundation
+* Innovating The Learning Experience Through Educational Technology: A Digital  Insight, 28th June 2020. [To read](https://datascience.foundation/sciencewhitepaper/innovating-the-learning-experience-through-educational-technology-a-digital-insight)   
+
+* Open Source Solutions for Building Your Own Storage Area Network and  Network Attached Storage, 21st May, 2020.[To read](https://datascience.foundation/sciencewhitepaper/open-source-solutions-for-building-your-own-storage-area-network-and-network-attached-storage)
+
+* An Overview of Autopsy: Open Source Digital Forensic Platform, 13th May 2020.[To read](https://datascience.foundation/sciencewhitepaper/an-overview-of-autopsy-open-source-digital-forensic-platform-1)
+
+* Internet Of Things (IOT): Network Protocol Queue And Enabling Technologies,  25 March 2020. [To read](https://datascience.foundation/sciencewhitepaper/internet-of-things-iot-network-protocol-queue-and-enabling-technologies)
+
+* Top 10 Popular Open Source DEVOPS Tools, March 2020.[To read](https://datascience.foundation/sciencewhitepaper/top-10-popular-open-source devops-tools)
+
+* Intelligent Agent Based Business Intelligence, February 2020. [To read](https://datascience.foundation/sciencewhitepaper/intelligent-agent-based-business-intelligence)
+
+* ARK Stack Deployment: An Interoperability Solution For Seamless Blockchain  Ecosystem, January 2020.[To read](https://datascience.foundation/sciencewhitepaper/ark-stack-deployment-an-interoperability-solution-for-seamless-blockchain-ecosystem)
+
+* Big Data Analytics: Idea, Data Types And Reference Architecture, January 2020.[To read](https://datascience.foundation/sciencewhitepaper/big-data-analytics-idea-data-types-and-reference-architecture)
+
+* An Overview List of Free Cybersecurity Tools, December 2019.[To read](https://datascience.foundation/sciencewhitepaper/an-overview-list-of-free-cybersecurity-tools)
+
+* A Quick Intro Of Big Data Visualization Techniques And Tools, November 2019.[To read](https://datascience.foundation/sciencewhitepaper/a-quick-intro-of-big-data-visualization-techniques-and-tools)
+
+
+### International journal
+* An Agent Based E-Learning Integration using JADE, paper in “Indian  Research Review”. Feb 2010, __ISSN__: 0975-7430, Vol-2, 24-26
+
+* A JADE Implementation of Integrated Agent System for E-Mail  Coordination (IASEC). International Journal of Computer Applications 58(5): 5- 9, November 2012. __Publisher__: Foundation of Computer Science, New York,  USA, __ISBN:__ 973-93-80870-35-2
+
+* An Agent Based Prioritized E-Mail Coordination Using JADE, International  Journal on Advanced Computing and Communication Networks Vol. 3 Issue 1.  Page 8-11
+
+* Toward Entrusted Communication in Multi-Agent systems Using JADE,  Wulfenia Journal, Austria, Vol 20, No. 3; Mar 2013.Page 221-229 (Indexed in  Annexure 1)
+
+* HOP Optimal Algorithm With Greedy Link Scheduler, To Avoiding Link  Failure For Multihop Wireless Networks, International Journal of Innovative  Research & Development Vol2, Issue 4, April 2013
+
+* Intrusion Fault Tolerant and Secure Commitment of OS Level Virtual  Machine, International Journal for Advance Research in Engineering and  Technology, __ISSN__ 2320-6802, in Vol. 2, Issue I, Jan., 2014
+
+* Amelioration of Artificial Intelligence using Game Techniques for an  Imperfect Information Board Game Geister, International Journal of Applied  Engineering Research (IJAER).ISSN 0973-4562 Vol 9, Number 22 (2014) pp.  11849-11860
+
+* Multiagent Based Secured Video Authentication Scheme Using JADE, International Journal of Applied Engineering Research (IJAER).ISSN 0973-4562  Volume 10, Number 4 (2015) pp. 9857-9863
+
+* An Agent Based Collaborative Spam Filtering Assistance Using JADE,  International Journal of Applied Engineering Research, ISSN 0973-4562,  Volume 10, Number 21 (2015) pp 42476-42479. (Indexed in Scopus and  annexure-2, Journal impact factor:2.38)
+
+* An Effective Two Way Classification of Breast Cancer Images, International  Journal of Applied Engineering Research, ISSN 0973-4562, Volume 10, Number  21 (2015) pp 42472-42475. (Indexed in Scopus and annexure-2, Journal impact  factor:2.38)
+
+* Design and Development of IoT Based Smart Aquaculture System in a Cloud  Environment, International Journal of Oceans and Oceanography, ISSN 0973- 2667, Volume 13, Number 1 (2019), pp. 121-127.  
+
+* IOT Based Fishery Management System, International Journal of Oceans and  Oceanography, ISSN 0973-2667, Volume 13, Number 1 (2019), pp. 147-152
+
+* IoT based lake and reservoir management system, International Journal of  Lakes and Rivers (IJLR). Vol.12, Issue 1, (2019), pp. 27-32. (WoS)
+
+* IoT Based Water Level Monitoring System for Lake in a Cloud  Environment, International Journal of Lakes and Rivers (IJLR). Vol. 12, Issue 1,  (2019), pp. 21-25.  
+
+* Natural Language Processing System for Fetching Ocean Related  Information Based on Ontology, International Journal of Oceans and  Oceanography, Volume 13, Number 1 (2019), pp. 277-283.  
+
+* A Machine Learning Based Driver Skill Assist System, International Journal of  Engineering and Advanced Technology (IJEAT), ISSN: 2249 – 8958, Volume-8,  Issue-3S, February 2019, pp. 597-600
+
+* Heart Disease Prediction Using Machine Learning Algorithm, International  Journal of Innovative Technology and Exploring Engineering (IJITEE) ISSN:  2278-3075, Volume-8, Issue-10, pp. 2603-2606, August 2019
+
+* Performance Evaluation of Naive Bayes Classifier with and without Filter  Based Feature Selection, International Journal of Innovative Technology and  Exploring Engineering (IJITEE), ISSN: 2278-3075, Volume-8, Issue-10, August  2019, pp. 2154-2158.
+
+* A Study of Remote Sensing in Oceanographic Research, International Journal  of Oceans and Oceanography (IJOO), ISSN 0973-2667 Volume 13, Number 2  (2019), pp. 343-352.  
+
+* IOT Based Smart Farming for Effective Utilization of Water and Energy,  International Journal of Advanced Science and Technology, Vol. 29, No. 7s,  (2020), pp. 2496-2500.
+
+* Optimized Virtual Network Function Provisioning Technique For Mobile  Edge Cloud Computing, Journal of Ambient Intelligence and Humanized  Computing, (2020). [Site](https://doi.org/10.1007/s12652-020-02122-8)

@@ -2,34 +2,115 @@
 layout: page
 title: Teaching
 ---
+--------------------------------------------------------------------------------------------------------------------------
+### Administrative Responsibilities  
+  
+* As the Head of Department, responsible for the Academic, Administration and  Accounts of the Department
 
-### Regular courses
-#### Experiment Design
-I have developed this course for the first year master of exerpimental physics. Two of the  objectives of this course are for the students to acquaint themselves with the application of several experimental techniques and to quantitatively argue the suitability of a technique for a given physical problem. During this course students design and exectue their own experiments in teams and study the necessary knowledge of data analysis, hardware interfacing, and presentation of scientific data.
-The central goal behind these outcomes is to empower all students to take a leading role in tackling grand scientific and technological challenges. For this purpose, a major part of the course focuses on leadership skills, group dynamics, and principles of working in open teams.
+* Proposals and Reports Preparation and Submission to various Apex bodies  like AICTE, Anna University, ISO and NBA
 
-#### Nature of Matter
-This course covers main topics of solid state physics for the third year bachelor of physics. As part of this course, students are required to play with instructive jupyter notebooks and write some of their own. We collect these notebooks in the [More Is Different repository](https://github.com/SanliFaez/MoreIsDifferent) and welcome other students and teachers to use them and also contribute.
+* Acting as a Management Representative for ISO Commission & Worked for  the NBA Certification for the Department
 
-### Project supervision
-In [our lab](https://www.uu.nl/en/research/nanophotonics/education/masters-research-projects), we regularly define experimental projects for bachelor and master students. Contact me if you are interested in choosing a very cool experimental project. 
+### Academia-Industry Interface  
+  
+* Nominated as Mentor, Analytics India Magazine
 
-__Completed projects under my (co)supervision include:__
+* Train the Trainer Programme on Computer Science & Business Systems with  TCS, Kolkatta, June 2019
 
-#### PhD projects
-* Pritam Pai, _Accurate statistics from optical transmission matrix measurements_
+* Matrix Comsec (Telecom & Security Solutions) Vadodara, Gujarat, 3rd October, 2019
 
-#### Master projects
-* Kevin Namink, _Potentiodynamic optical contrast_, Part of this resaerch is published in [Physical Review Applied](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.13.044065)
-* Peter Speets, _Measuring size and electrophoretic mobility of sub 100 nm particles by single particle tracking_
-* Qianjing Tang, _Developing fluorescence microscopy setup to study microscopic solute transport in saturated and unsaturated porous media using microfluidics_ joint project with the Faculty of Geosciences
+* Academia Visit To MS University, Baroda, 4th October, 2019
 
-#### Bachelor projects
-* Allard Veenstra, _Measurements on electrical properties of water while acoustically levitated_
-* Milo Collaris, _Crystallizing ultrasonically levitated colloidal droplets_
-* Lorenzo Sierra Perez, _Relation between surface charge and the flow rate within microfluidic channels_
-* Zeyu Kuang,_Measuring Absolute Scattering Cross-sections of nanoparticles and single molecules_, __winner best presentation 2017__
-* Tom Niessen,_Feedback control: theoretical and experimental research using a keysight DAQ_
-* Suzan Marsman,_Wavefront-shaping demonstration setup_, __winner best presentation 2016__
-* Kevin Namink,_Do-It-Yourself microscope_
+* Train the Trainer Programme on Computer Science & Business Systems with  TCS, Siruseri, Chennai, 18th and 19th November 2019
 
+### Innovations in Teaching Learning Process
+  
+* Industry based Curriculum Upgradation in CSBS syllabus
+
+### Seminars /FDP / Webinars / Workshops / Conferences  Attended
+  
+* Certificate of participation in the Global Citizens’ Dialogue on the future of  Internet by Missions Publiques
+
+* Certificate of participation in the webinar "How to File Patent, Copyright and  Trademark", 4th October 2020 by Research Circle
+
+* Certificate of Appreciation, participating in the Keysight PathWave Seminar  conducted by Keysight Technologies and EFY group on 1st September 2020
+* Online Faculty Development Program for the course on ‘Computer Science & Business Systems’ designed by Tata Consultancy Services, conducted on 17th  & 18th June 2020
+
+* Certificate of Participation, ICT Academy Convergence 2020 (Annual  Members Meeting) Organized by ICT Academy held on 15th July 2020
+* Certificate of Participation, IEEE Virtual Tech Talk: IEEE 802 Networking  Standards – Connecting the World
+
+* 3 day FDP on “Emerging Technologies in Electronics and Communication  Engineering & Computing, organized by Vel Tech High Tech Dr.Rangarajan  Dr.Sakunthala Engineering College from 4th June 2020 to 6th June 2020
+
+* Attended Leadership talk with Ms. Ashwini Deshpande (Co-Founder &  Director Elephant Design) held on 6th June 2020, by MHRD's Innovation  Cell
+
+* Attended Leadership Talk With Dr. Nilesh N Oak, Expert (Indian Civilization  & History) held on 30th May 2020, Dr. Abhay Jere (Chief Innovation Officer MHRD 
+
+### MOOC Certificate Courses
+  
+* Certificate for Completion of Cloud Computing: Part 1, IEEE Continuing  Education. 8th May, 2020
+* Certificate for Completion of IBM and Cybersecurity, P-TECH. 2nd May,  2020
+* Certificate of Course Completion of Focus on Peer Review, A Nature  Masterclasses online course. 2nd May, 2020
+* Certificate of Excellence for completed every module within Social impact by  Elsevier, Researcher Academy on Tuesday 28th April, 2020
+* Certificate for Completion of Standing up for Science by Elsevier,  Researcher Academy on Tuesday 28th April, 2020
+* Certificate for successfully completing the Elearning program on Industry  4.0, by TATA Steel, 27th April 2020
+* Certificate of Achievement for completion of course “Autopsy 8-Hour  Online Training”, April 25, 2020
+* Certificate for Completion of How to peer review a review article, by  Elsevier, Researcher Academy on Friday 24th April, 2020
+* Certificate for Completion of How to review a manuscript, by Elsevier,  Researcher Academy on Friday 24th April, 2020
+
+### Subjects Handled  
+  
+#### UG
+* Data Base Management Systems
+* Principles of Compiler Design
+* Object Oriented Programming 
+* Data Structures
+* Computer Architecture
+* Unix Internals 
+* Software Engineering
+* Artificial Intelligence 
+* Cryptography and Network Security 
+* OOAD 
+* Theory of Computation 
+* Web Technology 
+* Artificial Intelligence & Expert Systems
+* Advanced Java Programming
+* Machine Learning
+* User Experience Design 
+
+#### PG
+ * Advanced Data Structures
+ * Web Technology
+ * Advanced System Software 
+ * Advanced Compiler Design
+ * Advanced Data Bases 
+
+### Computer Skills  
+
+__Operating System :__ DOS, Windows, UNIX
+
+__Programming Languages :__ C, C++, FORTRAN, COBOL, JADE, Weka, Matlab GUI : Visual Basic, Visual C++
+
+__RDBMS :__ ORACLE 
+
+__Mainframe :__ AS/400e
+
+__Simulator :__ NS2
+
+__Internet :__ Java, Servlets. JDBC, HTML, RMI  
+
+__OO Design :__ UML, Rational Rose 
+
+### Field of Interest  
+➢ Artificial Intelligence 
+
+➢ Machine Learning 
+
+➢ Cloud Computing 
+
+➢ IoT 
+
+➢ Bigdata 
+
+➢ Image Processing 
+
+➢ Wireless Sensor Network 
