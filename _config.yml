@@ -8,9 +8,10 @@ baseurl: ''
 author:
   name: 'Dr. S Balakrishnan'
   email: balkiparu@gmail.com
-  twitter_username: 
-  github_username:  
-  linkedin_username:  
+  twitter_username: balkiparu
+  linkedin_username:  dr-balakrishnan-s-11970726
+  google_scholar: https://scholar.google.co.in/citations?user=E_JorpwAAAAJ&hl=en
+  scopus_name: https://www.scopus.com/authid/detail.uri?authorId=7102944084
 
 defaults:
   -

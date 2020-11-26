@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Achieved
+title: Achievements
 ---
 ------------------------------------------------------------------------------------------------------------
 
+
 ### Honours  
   
-* Interview at [Educlasses.co.in](http://educlasses.co.in/interview-dr-balakrishnan-s-data-science-computer-science-writer-professor-author-coimbatore.html)
+* Interview at [Educlasses.co.in](https://educlasses.co.in/interview-dr-balakrishnan-s-data-science-computer-science-writer-professor-author-coimbatore.html)
 
 * Appreciation from India Book of Records (IBR) for filing 18 patents over a  period of 15 months. [click](https://indiabookofrecords.in/appreciation-dr-balakrishnan-subramanian/#more-40281)
 

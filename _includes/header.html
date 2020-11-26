@@ -32,10 +32,10 @@
               <li class="navigation__item"><a href="{{ site.baseurl }}/publications" title="List of publications" class="blog-button">Publications</a></li>
 			</ul>  
 			<ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/conferences" title="List of podcasts" class="blog-button">conferences</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/conferences" title="List of Conferences" class="blog-button">Conferences</a></li>
             </ul>
 			<ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}/achieved" title="News, updates, and some thoughts" class="blog-button">achieved</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/achieved" title="Honors and awards" class="blog-button">Achievements</a></li>
             </ul>
           </nav>
 
@@ -72,22 +72,32 @@
               </li>
             {% endif %}
 
-            {% if site.author.github_username %}
-              <!-- GitHub -->
-              <li class="navigation__item">
-                <a href="https://www.github.com/{{ site.author.github_username }}" title="{{ site.author.github_username }} on GitHub" target="_blank">
-                  <i class="icon icon-social-github"></i>
-                  <span class="label">GitHub</span>
-                </a>
-              </li>
-            {% endif %}
-
             {% if site.author.email %}
               <!-- Email -->
               <li class="navigation__item">
                 <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
                   <i class="icon icon-mail"></i>
                   <span class="label">Email</span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if site.author.google_scholar %}
+              <!-- Email -->
+              <li class="navigation__item">
+                <a href="{{ site.author.google_scholar }}" title="google_scholar {{ site.author.google_scholar }}" target="_blank">
+                  <i class="icon icon-social-google-plus"></i>
+                  <span class="label">Google-Scholar</span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if site.author.scopus_name %}
+              <!-- Email -->
+              <li class="navigation__item">
+                <a href="{{ site.author.scopus_name }}" title="scopus_name {{ site.author.scopus_name }}" target="_blank">
+                  <i class="icon icon-page"></i>
+                  <span class="label">Scopus</span>
                 </a>
               </li>
             {% endif %}
